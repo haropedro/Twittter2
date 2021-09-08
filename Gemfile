@@ -55,7 +55,7 @@ end
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> anywhere in the code.
   gem 'web-console', '>= 3.3.0'
-  gem 'better_errors', '~> 2.5', '>= 2.5.1'
+  gem 'better_errors', '~> 2.8'
   gem 'guard', '~> 2.16', '>= 2.16.1'
   gem 'guard-livereload', '~> 2.5', '>= 2.5.2', require: false
 end
